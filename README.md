@@ -8,11 +8,11 @@
 <p>*HTML*</p>
 <P>*CSS*</P>
 <br>
-<h2>Computador:</h2>
+<h3>Computador:</h3>
 <br>
 <img src="https://github.com/DiegoBertassello/Easy-Shopping/blob/37926a1d67856f8c9d7442bc6d2263256070193f/Imagem%20Desktop.png?raw=true">
 <br>
-<h2>Smartphone:</h2>
+<h3>Smartphone:</h3>
 <br>
 <img src="https://raw.githubusercontent.com/DiegoBertassello/Easy-Shopping/37926a1d67856f8c9d7442bc6d2263256070193f/Imagem%20Mobile.png">
 
