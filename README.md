@@ -14,5 +14,5 @@
 <br>
 <h3>Smartphone:</h3>
 <br>
-<img src="https://raw.githubusercontent.com/DiegoBertassello/Easy-Shopping/37926a1d67856f8c9d7442bc6d2263256070193f/Imagem%20Mobile.png">
+<img src="">
 
